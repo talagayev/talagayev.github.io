@@ -1,11 +1,11 @@
 // Love dynamically typed text? You're gonna love this
 // Edit these strings to see them typed on the screen:
 $strings: (
-  "Drug Design"
-  "Molecular Modelling"
-  "Chemoinformatics"
-  "Machine Learning"
-  "Software Engineering"
+  "Drug Design",
+  "Molecular Modelling",
+  "Chemoinformatics",
+  "Machine Learning",
+  "Software Engineering",
   "Method Development"
 );
 
@@ -46,7 +46,6 @@ $currentPercentage: 0;
 // now THIS is where the magic happens... ✨
 @keyframes typed {
 	@for $i from 1 through length($strings) {
-		// @for $j from 1 through (str-length(nth($strings, $i)) * 2 - 1) {
 		@for $j from 1 through (str-length(nth($strings, $i)) * 2) {
 			/* string #{$i}, char #{$j} */
 			@if $j < str-length(nth($strings, $i)) * 2 { // not last character deleted
@@ -77,7 +76,7 @@ $currentPercentage: 0;
 * { backface-visibility: hidden; }
 html, body {
   height: 100%;
-  background-color: #ea9999; // Add this line for grey background
+  background-color: #FFFFFF; // Set background to white
 }
 #keywords {
 	display: flex;
@@ -85,7 +84,7 @@ html, body {
 	justify-content: center;
 	font-size: min(max(20px, 8vw), 54px);
 	font-family: 'VT323', monospace, sans-serif;
-	color: #64269f; // Purple color
+	color: #000000; // Set keywords to black
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
 	&::after {
@@ -101,7 +100,14 @@ html, body {
 		animation: typed #{$durTotal + "s"} linear 1s infinite, beam-blink 1s infinite;
 	}
 }
-// body[onload] {
-// 	&::before, &::after { display: none !important; }
-// 	background: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/1580009/codepen_css-typed-this.png) center / cover;
-// }
+#name {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	font-size: min(max(20px, 8vw), 54px);
+	font-family: 'VT323', monospace, sans-serif;
+	color: #64269f; // Set name to purple
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+	margin-top: 20px;
+}

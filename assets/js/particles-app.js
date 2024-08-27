@@ -46,8 +46,8 @@ particlesJS('particles-js', {
     "move": {
       "enable": true,
       "speed": 2, // Speed of movement
-      "direction": "bottom", // Movement direction: down
-      "random": false, // Disable random movement direction
+      "direction": "bottom", // Move particles downward
+      "random": false,
       "straight": false,
       "out_mode": "bounce",
       "attract": {
@@ -67,36 +67,12 @@ particlesJS('particles-js', {
         "mode": "push"
       },
       "resize": false
-    },
-    "modes": {
-      "grab": {
-        "distance": 400,
-        "line_linked": {
-          "opacity": 1
-        }
-      },
-      "bubble": {
-        "distance": 100,
-        "size": 20,
-        "duration": 2,
-        "opacity": 8,
-        "speed": 3
-      },
-      "repulse": {
-        "distance": 200
-      },
-      "push": {
-        "particles_nb": 4
-      },
-      "remove": {
-        "particles_nb": 2
-      }
     }
   },
   "retina_detect": true,
   "config_demo": {
     "hide_card": false,
-    "background_color": "#b61924",
+    "background_color": "#000000", // Ensure background color is black for visibility
     "background_image": "",
     "background_position": "100% 100%",
     "background_repeat": "no-repeat",

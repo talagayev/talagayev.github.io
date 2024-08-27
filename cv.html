@@ -126,6 +126,11 @@ permalink: /cv/
           <div class="resume-content">
             <h4 class="mb-0"><a href="{{ project.docs }}">{{ project.name }}</a></h4>
             <div class="subheading mb-3">{{ project.description }}</div>
+            {% if project.figure %}
+            <div class="project-figure">
+              <img src="{{ project.figure }}" alt="{{ project.name }} figure" style="max-width: 100%; height: 200px;">
+            </div>
+            {% endif %}
             <div class="">
               <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/{{ project.github_handle }}">
               <img alt="GitHub forks" src="https://img.shields.io/github/forks/{{ project.github_handle }}">
@@ -136,11 +141,6 @@ permalink: /cv/
               <p><a href="{{ project.doi }}">{{ project.paper }}</a></p>
               {% endif %}
             </div>
-            {% if project.figure %}
-            <div class="project-figure">
-              <img src="{{ project.figure }}" alt="{{ project.name }} figure" style="max-width: 100%; height: 200px;">
-            </div>
-            {% endif %}
           </div>
           <div class="resume-date text-md-right">
             <span class="text-primary">{{ project.date }}</span>

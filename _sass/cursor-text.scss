@@ -77,7 +77,7 @@ $currentPercentage: 0;
 * { backface-visibility: hidden; }
 html, body {
   height: 100%;
-  background-color: #d3d3d3; // Add this line for grey background
+  background-color: #B6d7a8; // Add this line for grey background
 }
 #keywords {
 	display: flex;
@@ -85,7 +85,7 @@ html, body {
 	justify-content: center;
 	font-size: min(max(20px, 8vw), 54px);
 	font-family: 'VT323', monospace, sans-serif;
-	color: #fff;
+	color: #64269f;
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
 	&::after {

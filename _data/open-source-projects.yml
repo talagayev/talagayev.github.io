@@ -4,6 +4,7 @@
   docs: https://openmmdl.readthedocs.io//
   role: Author and maintainer
   date: 2022
+  figure: assets/img/flask.png
 - name: MDonatello
   description: 2D small molecule visualization for MDAnalysis
   github_handle: talagayev/MDonatello

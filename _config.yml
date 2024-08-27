@@ -11,7 +11,7 @@ defaults:
       path: ""
     values:
       layout: "default"
-      image: /assets/img/logo_banner.png
+      image: /assets/img/kz_logo.png
   -
     scope:
       path: ""

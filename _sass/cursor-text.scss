@@ -75,7 +75,10 @@ $currentPercentage: 0;
 	75% { border-color: transparent; }
 }
 * { backface-visibility: hidden; }
-html, body { height: 100%; }
+html, body {
+  height: 100%;
+  background-color: #d3d3d3; // Add this line for grey background
+}
 #keywords {
 	display: flex;
 	align-items: center;

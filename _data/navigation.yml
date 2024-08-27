@@ -1,0 +1,8 @@
+- name: <i class="fas fa-home"></i>
+  link: /
+- name: CV
+  link: /cv/
+# - name: Portfolio
+#   link: /portfolio/
+- name: Blog
+  link: /blog/

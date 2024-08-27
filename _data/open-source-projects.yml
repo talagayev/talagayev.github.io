@@ -7,6 +7,8 @@
 - name: MDonatello
   description: 2D small molecule visualization for MDAnalysis
   github_handle: talagayev/MDonatello
+  docs: https://https://mdonatello.readthedocs.io//
+  role: Author and maintainer
   date: 2024
 - name: MDAnalysis
   description: Python library to analyze molecular dynamics simulations

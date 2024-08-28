@@ -1,12 +1,9 @@
 ---
 ---
 @import "syntax";
-/*
-General
-*/
-*,
-*:before,
-*:after {
+
+/* General */
+*, *:before, *:after {
   box-sizing: inherit;
 }
 html {
@@ -14,20 +11,23 @@ html {
   box-sizing: border-box;
 }
 body {
-	background: black;
+  background: black;
   height: 100%;
-	margin: 0;
-	position: relative;
-	padding-bottom: 6rem;
+  margin: 0;
+  position: relative;
+  padding-bottom: 6rem;
   font-family: Roboto;
 }
 p {
-  overflow-wrap:break-word;
+  overflow-wrap: break-word;
   white-space: normal;
 }
+
 #topbar {
   font-family: 'Muli', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
+  background-color: #000000 !important; /* Navbar background black */
 }
+
 @media (max-width: 496px) {
   #brand {
     font-size: 9pt;
@@ -36,6 +36,7 @@ p {
     font-size: 26pt;
   }
 }
+
 @media (max-width: 992px) {
   .nav-item {
     font-size: 1rem;
@@ -43,9 +44,8 @@ p {
     padding: 0px 0px;
   }
 }
-/*
-Blinking cursor and typing text in navbar
-*/
+
+/* Blinking cursor and typing text in navbar */
 #cursor {
   position: absolute;
   top: 0;
@@ -62,51 +62,55 @@ Blinking cursor and typing text in navbar
   animation: typing 20s steps(16) infinite,
       blinking 1s step-end infinite;
 }
+
 #cursor-container {
   position: relative;
 }
+
 #brand {
   font-family: monospace;
 }
+
 @-webkit-keyframes typing {
   0% { width: 100% }
   20% { width: 100% }
   60% { width: 0 }
   100% { width: 0 }
 }
+
 @keyframes typing {
   0% { width: 100% }
   20% { width: 100% }
   50% { width: 0 }
   100% { width: 0 }
 }
+
 @-webkit-keyframes blinking {
   from, to { border-color: transparent; }
   50% { border-color: #fff; }
 }
+
 @keyframes blinking {
   from, to { border-color: transparent; }
   50% { border-color: #fff; }
 }
-/*
-Particle.js
-*/
+
+/* Particle.js */
 * { z-index: 2; }
 .particle, .particle > canvas { z-index: 1 !important; }
 #particles-js {
-	position: absolute;
+  position: absolute;
   bottom: 1;
   width: 100%;
   height: 99%;
-	background-size: cover;
-	background-position: 50% 50%;
-	background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
   padding: 0;
   margin: 0;
 }
-/*
-Main
-*/
+
+/* Main */
 #home-container {
   position: absolute;
   bottom: 0;
@@ -115,41 +119,48 @@ Main
   padding: 0;
   margin: 0;
 }
+
 .whitespace-pre-line {
   white-space: pre-line;
 }
+
 .tags a {
   margin-left: 5px;
   margin-right: 5px;
 }
+
 .tags {
   padding-right: 10px;
 }
+
 .card-thumbnail {
   max-height: 250px;
   object-fit: contain;
   border-radius: 10px;
 }
+
 .card-img-post {
   max-width: 900px;
   object-fit: contain;
   border-radius: 10px;
 }
+
 blockquote {
   padding: 0 1em;
   line-height: 1.5;
   color: #6a737d;
   border-left: .25em solid #dfe2e5;
 }
+
 img {
   max-width: 100%;
 }
+
 video {
   max-width: 100%;
 }
-/*
-Search
-*/
+
+/* Search */
 #search-results-container * {
   background-color: #f4f4f4;
   border-radius: 5px;
@@ -160,6 +171,7 @@ Search
   animation-fill-mode: both;
   -webkit-animation-fill-mode: both;
 }
+
 @keyframes appear {
   0% {
     transform: translateY(-5px);
@@ -168,10 +180,6 @@ Search
   100% {
     transform:translateY(0);
     opacity: 1;
-  }
-  0% {
-    transform: translateY(-5px);
-    opacity: 0;
   }
 }
 
@@ -184,19 +192,14 @@ Search
     -webkit-transform: translateY(0);
     -webkit-opacity: 1;
   }
-  0% {
-    -webkit-transform: translateY(-5px);
-    -webkit-opacity: 0;
-  }
 }
-/*
-Bootstrap
-*/
+
+/* Bootstrap */
 .card-body p {
   padding-left: 1rem;
 }
 
 /* Custom header color */
 h1, h2, h3, h4, h5, h6, p.h1 {
-    color: #64269f !important;
+  color: #ffffff !important; /* Set header text to white */
 }

@@ -1,20 +1,25 @@
 - event: MDAnalysis UGM 2024
   url: https://www.mdanalysis.org/pages/ugm2024/
-  title: "OpenMMDL: A Workflow for Molecular Dynamics Simulations of Protein-Ligand Complexes Setup, Simulation and Analysis"
+  title: OpenMMDL: A Workflow for Molecular Dynamics Simulations of Protein-Ligand Complexes Setup, Simulation and Analysis
   type: Lightining Talk + Poster
   date: August 21-23, 2024
 - event: EMBO Workshop Computational structural biology
   url: https://www.embl.org/about/info/course-and-conference-office/events/csb23-01/
-  title: "OpenMMDL:A workflow for molecular dynamic simulations of protein-ligand complexes setup, simulation and analysis"
+  title: OpenMMDL:A workflow for molecular dynamic simulations of protein-ligand complexes setup, simulation and analysis
   type: flash talk + Poster
   date: December 6-9, 2023
 - event: EUROPIN Summer School on Drug Design 2023
   url: https://pharminfo.univie.ac.at/summerschool/2023/
-  title: "Discovery, Optimization and Exploration of Toll like receptor 8 Antagonists"
+  title: Discovery, Optimization and Exploration of Toll like receptor 8 Antagonists
   type: EUROPIN application talks
   date: September 10-15, 2023
 - event: EFMC-YMCS 2023
   url: https://efmcymcs2023.ldorganisation.com/
-  title: "A novel approach of Toll-like receptor dynamics application for structure optimization through 3D pharmacophore analysis"
+  title: A novel approach of Toll-like receptor dynamics application for structure optimization through 3D pharmacophore analysis
   type: Poster
   date: September 7-8, 2023
+- event: ICCS 2022
+  url: https://iccs-nl.org/
+  title: An innovative approach of Toll-like receptor dynamics exploitation for structure optimization through 3D pharmacophore analysis
+  type: Talk
+  date: June 12-16, 2022

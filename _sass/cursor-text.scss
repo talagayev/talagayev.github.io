@@ -57,9 +57,9 @@ $currentPercentage: 0;
 						content: quote(#{str_slice(nth($strings, $i), 1, str-length(nth($strings, $i)) - ($j - str-length(nth($strings, $i))))});
 					}
 					@if nth($strings, $i) == "Valerij Talagayev" {
-						color: #64269F; // Purple for Valerij Talagayev
+						color: #000000; // black for Valerij Talagayev
 					} @else {
-						color: #000000; // Black for keywords
+						color: #64269f; // purple for keywords
 					}
 				}
 			} @else {

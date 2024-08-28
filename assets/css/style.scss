@@ -195,3 +195,8 @@ Bootstrap
 .card-body p {
   padding-left: 1rem;
 }
+
+/* Custom header color */
+h1, h2, h3, h4, h5, h6, p.h1 {
+    color: #64269f !important;
+}

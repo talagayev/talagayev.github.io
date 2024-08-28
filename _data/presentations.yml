@@ -1,71 +1,20 @@
-- event: 1st MDAnalysis UGM
-  url: https://github.com/MDAnalysis/UGM2023
-  title: "Encoding interactions as fingerprints in MD simulations"
-  type: Keynote
-  date: September 27-29, 2023
-- event: 11th RDKit UGM
-  url: https://github.com/rdkit/UGM_2022
-  title: "Encoding molecular interactions as fingerprints with ProLIF"
+- event: MDAnalysis UGM 2024
+  url: https://www.mdanalysis.org/pages/ugm2024/
+  title: "OpenMMDL: A Workflow for Molecular Dynamics Simulations of Protein-Ligand Complexes Setup, Simulation and Analysis"
+  type: Lightining Talk + Poster
+  date: August 21-23, 2024
+- event: EMBO Workshop Computational structural biology
+  url: https://www.embl.org/about/info/course-and-conference-office/events/csb23-01/
+  title: "OpenMMDL:A workflow for molecular dynamic simulations of protein-ligand complexes setup, simulation and analysis"
+  type: flash talk + Poster
+  date: December 6-9, 2023
+- event: EUROPIN Summer School on Drug Design 2023
+  url: https://pharminfo.univie.ac.at/summerschool/2023/
+  title: "Discovery, Optimization and Exploration of Toll like receptor 8 Antagonists"
+  type: EUROPIN application talks
+  date: September 10-15, 2023
+- event: EFMC-YMCS 2023
+  url: https://efmcymcs2023.ldorganisation.com/
+  title: "A novel approach of Toll-like receptor dynamics application for structure optimization through 3D pharmacophore analysis"
   type: Poster
-  date: October 12-14, 2022
-- event: 10th RDKit UGM
-  url: https://github.com/rdkit/UGM_2021
-  title: "Interactive visualization and filtering of small molecule datasets with mols2grid"
-  type: Tutorial session
-  date: October 14-15, 2021
-- event: ECRO XXXI meeting
-  url: https://www.ecro.online/meetings/ecro-2021-portugal/
-  type: Poster
-  title: "Functional Molecular Switches of Mammalian G Protein-Coupled Bitter-Taste Receptors"
-  date: September 14-16, 2021
-- event: 16th Weurman Flavour Research Symposium
-  url: https://symposium.inrae.fr/weurman2020/Programme
-  type: Poster
-  title: "Bitter-Taste Receptors: From Sequence to Structure"
-  date: May 4-6, 2021
-- event: 9th RDKit UGM
-  url: https://github.com/rdkit/UGM_2020
-  type: Oral presentation
-  title: "From RDKit to the Universe and back"
-  date: October 6-8, 2020
-- event: International Symposium on Olfaction and Taste
-  url: https://achems.org/ISOT/
-  type: Poster
-  title: "Functional Microswitches of Mammalian G Protein-Coupled Bitter-Taste Receptors"
-  date: August 3-7, 2020
-- event: 9<sup>th</sup> meeting of the French Chemoinformatics Society
-  url: https://sfci2019.sciencesconf.org/
-  type: Oral presentation
-  title: Decoding sweet taste from chemical structures
-  date: November 21, 2019
-- event: GDR-O3 2019 annual meeting
-  url: http://www.gdr-o3.cnrs.fr/rencontre-annuelle-2019-toulouse/
-  type: Poster
-  title: Molecular insights into the structure-function relationships of bitter taste receptors
-  date: November 7-8, 2019
-- event: ECRO XXIX meeting
-  url: https://www.ecro.online/meetings/ecro-2019-trieste/
-  type: Poster
-  title: Molecular insights into the structure-function relationships of bitter taste receptors
-  date: September 11-14, 2019
-- event: 26<sup>th</sup> PACA Chemistry Day
-  url: http://journees-chimie-paca.fr/JCPaca_2019.html
-  type: Poster
-  title: Modeling taste perception from chemical structures
-  date: April 26, 2019
-- event: International Perfume Museum project
-  url: https://www.museesdegrasse.com/accueil/musee-international-de-la-parfumerie
-  type: Public conference
-  title: How our brain perceives odors and flavors
-  info: Lecture given to middle school students
-  date: April 24 &amp; May 15, 2019
-- event: 21<sup>st</sup> GGMM congress
-  url: https://ggmm2019.sciencesconf.org/
-  type: Oral presentation
-  title: Numerical model of structure-taste relationships
-  date: April 5, 2019
-- event: 2<sup>nd</sup> UCA Complex Days meeting
-  url: http://univ-cotedazur.fr/events/second-edition-uca-complex-days
-  type: Flash talk and Poster
-  title: Modeling taste perception from chemical structures
-  date: March 25, 2019
+  date: September 7-8, 2023

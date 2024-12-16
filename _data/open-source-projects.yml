@@ -21,3 +21,11 @@
   paper: Naughton F. B. et al. (2022) Biophysical Journal
   doi: https://doi.org/10.1016/j.bpj.2021.11.1368
   figure: /assets/img/mdanalysis.png
+- name: ProLIF
+  description: Interaction Fingerprints for protein-ligand complexes and more.
+  github_handle: chemosim-lab/ProLIF
+  docs: https://prolif.readthedocs.io/
+  role: Collaborator --> Water bridge interaction implementation
+  date: 2024
+  paper: Bouysset, C., Fiorucci, S. (2021) Journal of Chemoinformatics
+  doi: https://doi.org/10.1186/s13321-021-00548-6

@@ -1,18 +1,33 @@
-- title: "OpenMMDL Simplifying the Complex: Building, Simulating, and Analyzing Protein-Ligand Systems in OpenMM"
+- title: "Design, synthesis and biological evaluation of novel pyrimidine-based small-molecule Toll-like receptor 8 antagonists"
   first_author: True
-  authors: Talagayev V., Chen C., Talagayev V., Doering N. P., Obendorf L., Denzinger K., Puls K., Lam K., Liu S., Wolf A. W., Noonan T., Breznik M., Wolber G.,
-  date: 2024
-  journal: Publication in Submission
+  authors: Matziol T., Talagayev V., Benedik N. S., Slokan T., Holze J., Weindl G., Wolber G., Sova M.,
+  date: 2025
+  journal: Manuscript in Submission (Target Journal: ACS Medicinal Chemistry Letters)
 - title: "Unbinding Pathways of Toll-like receptor 8 agonists and antagonists"
   first_author: True
   authors: Talagayev V., Wolber G., Nunes Alves A. F.,
-  date: 2024
-  journal: Manuscript in Preparation
-- title: "Discovery of novel small-molecule Toll-like receptor 8 antagonists"
+  date: 2025
+  journal: Manuscript in Submission
+  url: https://chemrxiv.org/engage/chemrxiv/article-details/67c5c6ab81d2151a02e1bc80
+  pdf: https://chemrxiv.org/engage/api-gateway/chemrxiv/assets/orp/resource/item/67c5c6ab81d2151a02e1bc80/original/agonists-and-antagonists-show-different-unbinding-paths-from-the-tlr8-receptor.pdf
+- title: "Optimization of 6-(trifluoromethyl)pyrimidine derivatives as TLR8 antagonists"
+  first_author: True
+  authors: Benedik N. S., Talagayev V., Matziol T., Dolšak A., Sosič I., Weindl G., Wolber G., Sova M.,
+  date: March 2025
+  journal: Acta Pharmaceutica
+  url: https://doi.org/10.2478/acph-2025-0011
+- title: "OpenMMDL Simplifying the Complex: Building, Simulating, and Analyzing Protein-Ligand Systems in OpenMM"
+  first_author: True
+  authors: Talagayev V., Chen C., Doering N. P., Obendorf L., Denzinger K., Puls K., Lam K., Liu S., Wolf A. W., Noonan T., Breznik M., Wolber G.,
+  date: February 2025
+  journal: Journal of Chemical Information and Modeling
+  url: https://pubs.acs.org/doi/10.1021/acs.jcim.4c02158
+- title: "Discovery of Novel Isoxazole-Based Small-Molecule Toll-Like Receptor 8 Antagonists"
   first_author: True
   authors: Matziol T., Talagayev V., Slokan T., Holze J., Sova M., Wolber G., Weindl G.,
-  date: 2024
-  journal: Manuscript in Preparation (Manuscript name modified)
+  date: February 2025
+  journal: Journal of Medicinal Chemistry
+  url: https://pubs.acs.org/doi/abs/10.1021/acs.jmedchem.4c03148
 - title: "CACHE Challenge #1: targeting the WDR domain of LRRK2, a Parkinsons Disease associated protein"
   first_author: false
   authors: Li F. et al. 

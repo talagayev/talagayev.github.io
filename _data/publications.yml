@@ -28,6 +28,13 @@
   date: February 2025
   journal: Journal of Medicinal Chemistry
   url: https://pubs.acs.org/doi/abs/10.1021/acs.jmedchem.4c03148
+- title: "CACHE Challenge #2: Targeting the RNA Site of the SARS-CoV-2 Helicase Nsp13"
+  first_author: false
+  authors: Herasymenko O. et al. 
+  date: March 2025
+  journal: ChemRxiv
+  url: https://chemrxiv.org/engage/chemrxiv/article-details/67c858e5fa469535b90c4f9a
+  pdf: https://chemrxiv.org/engage/api-gateway/chemrxiv/assets/orp/resource/item/67c858e5fa469535b90c4f9a/original/cache-challenge-2-targeting-the-rna-site-of-the-sars-co-v-2-helicase-nsp13.pdf
 - title: "CACHE Challenge #1: targeting the WDR domain of LRRK2, a Parkinsons Disease associated protein"
   first_author: false
   authors: Li F. et al. 

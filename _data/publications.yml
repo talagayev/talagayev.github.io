@@ -1,14 +1,33 @@
 - title: "Design, synthesis and biological evaluation of novel pyrimidine and quinazoline-based small-molecule Toll-like receptor 8 antagonists "
   first_author: True
   authors: Matziol T., Talagayev V., Benedik N. S., von Kempis P., Slokan T., Holze J., Weindl G., Wolber G., Sova M.,
-  date: 2025
-  journal: Manuscript in Preparation
+  date: 2026
+  journal: Manuscript in Submission
+- title: "A Computational Community Blind Challenge on Pan-Coronavirus Drug Discovery Data"
+  first_author: False
+  authors: MacDermott-Opeskin H. et al.
+  date: 2026
+  journal: ChemRxiv
+  url: https://chemrxiv.org/doi/pdf/10.26434/chemrxiv-2025-zd9mr-v6
+- title: "CACHE Challenge #3: Targeting the Nsp3 Macrodomain of SARS-CoV-2"
+  first_author: false
+  authors: Herasymenko O. et al. 
+  date: Januar 2026
+  journal: Journal of Chemical Information and Modeling
+  url: https://doi.org/10.1021/acs.jcim.5c02441
+  pdf: https://www.biorxiv.org/content/10.1101/2024.07.18.603797v1.full.pdf
 - title: "Structure-guided approaches to modulate endosomal toll-like receptors TLR7, TLR8 and TLR9: advances, challenges and therapeutic promise"
   first_author: True
   authors: Matziol T., Talagayev V., Weindl G., Wolber G.,
   date: November 2025
   journal: Drug Discovery Today
   url: https://doi.org/10.1016/j.drudis.2025.104495
+- title: "Fingerprint-Based Machine Learning for SARS-CoV-2 and MERS-CoV Mpro Inhibition: Highlighting the Potential of Bayesian Neural Networks"
+  first_author: True
+  authors: Doering N. P., Talagayev V., Liu S., Wolber G.,
+  date: December 2025
+  journal: Journal of Chemical Information and Modeling
+  url: https://doi.org/10.1021/acs.jcim.5c02014
 - title: "An Ongoing Search for Multitarget Ligands as Potential Agents for Diabetes Mellitus and Its Long-Term Complications: New Insights into (5-Arylidene-4-oxothiazolidin-3-yl)alkanoic Acid Derivatives"
   first_author: False
   authors: Maccari R., Ottanà R., Talagayev V., Moschini R., Balestri F., Felice F., Iannuccilli F., Sardelli G., Sodano R., Wolber G., Paoli P., Del Corso A.,
@@ -40,6 +59,7 @@
   date: March 2025
   journal: Acta Pharmaceutica
   url: https://doi.org/10.2478/acph-2025-0011
+  pdf: https://acta.pharmaceutica.farmaceut.org/wp-content/uploads/2025/06/15925.pdf
 - title: "OpenMMDL Simplifying the Complex: Building, Simulating, and Analyzing Protein-Ligand Systems in OpenMM"
   first_author: True
   authors: Talagayev V., Chen C., Doering N. P., Obendorf L., Denzinger K., Puls K., Lam K., Liu S., Wolf A. W., Noonan T., Breznik M., Wolber G.,

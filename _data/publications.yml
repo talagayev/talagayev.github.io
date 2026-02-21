@@ -15,7 +15,8 @@
   authors: MacDermott-Opeskin H. et al.
   date: 2026
   journal: ChemRxiv
-  url: https://chemrxiv.org/doi/pdf/10.26434/chemrxiv-2025-zd9mr-v6
+  url: https://chemrxiv.org/doi/full/10.26434/chemrxiv-2025-zd9mr-v6
+  pdf: https://chemrxiv.org/doi/pdf/10.26434/chemrxiv-2025-zd9mr-v6
 - title: "CACHE Challenge #3: Targeting the Nsp3 Macrodomain of SARS-CoV-2"
   first_author: false
   authors: Herasymenko O. et al. 
@@ -35,6 +36,7 @@
   date: December 2025
   journal: Journal of Chemical Information and Modeling
   url: https://doi.org/10.1021/acs.jcim.5c02014
+  pdf: https://chemrxiv.org/doi/pdf/10.26434/chemrxiv-2025-rv352
 - title: "An Ongoing Search for Multitarget Ligands as Potential Agents for Diabetes Mellitus and Its Long-Term Complications: New Insights into (5-Arylidene-4-oxothiazolidin-3-yl)alkanoic Acid Derivatives"
   first_author: False
   authors: Maccari R., Ottanà R., Talagayev V., Moschini R., Balestri F., Felice F., Iannuccilli F., Sardelli G., Sodano R., Wolber G., Paoli P., Del Corso A.,
@@ -59,7 +61,7 @@
   date: July 2025
   journal: Journal of Chemical Information and Modeling
   url: https://doi.org/10.1021/acs.jcim.5c00496
-  pdf: https://chemrxiv.org/engage/api-gateway/chemrxiv/assets/orp/resource/item/67c5c6ab81d2151a02e1bc80/original/agonists-and-antagonists-show-different-unbinding-paths-from-the-tlr8-receptor.pdf
+  pdf:https://chemrxiv.org/doi/pdf/10.26434/chemrxiv-2025-n94jz
 - title: "Optimization of 6-(trifluoromethyl)pyrimidine derivatives as TLR8 antagonists"
   first_author: True
   authors: Benedik N. S., Talagayev V., Matziol T., Dolšak A., Sosič I., Weindl G., Wolber G., Sova M.,

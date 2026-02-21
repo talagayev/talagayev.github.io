@@ -1,8 +1,18 @@
+- event: 9th Advanced in silico Drug Design workshop 2026
+  url: https://www.kfc.upol.cz/9add
+  title: Molecular dynamics with OpenMMDL
+  type: Workshop
+  date: Januar 26-30, 2025
 - event: EUROPIN Summer School on Drug Design
   url: https://pharminfo.univie.ac.at/summerschool/2025/
   title: Identification and optimization of Toll-like receptor 8 modulators using pharmacophores and molecular dynamics simulations
   type: Talk
   date: September 14-19, 2025
+- event: RDKit UGM 2025
+  url: https://github.com/rdkit/UGM_2025
+  title: OpenMMDL - Building, Simulating, and Analyzing Protein–Ligand Systems in OpenMM
+  type: Lightining Talk + Poster
+  date: September 10-12, 2025
 - event: ICCS 2025
   url: https://iccs-nl.org/
   title: OpenMMDL - Simplifying the Complex Building, Simulating, and Analyzing Protein–Ligand Systems in OpenMM

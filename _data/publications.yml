@@ -62,6 +62,13 @@
   journal: Journal of Chemical Information and Modeling
   url: https://doi.org/10.1021/acs.jcim.5c00496
   pdf: https://chemrxiv.org/doi/pdf/10.26434/chemrxiv-2025-n94jz
+- title: "CACHE Challenge #2: Targeting the RNA Site of the SARS-CoV-2 Helicase Nsp13"
+  first_author: false
+  authors: Herasymenko O. et al. 
+  date: June 2025
+  journal: Journal of Chemical Information and Modeling
+  url: https://doi.org/10.1021/acs.jcim.5c00535
+  pdf: https://chemrxiv.org/doi/pdf/10.26434/chemrxiv-2025-8f0rq-v3
 - title: "Optimization of 6-(trifluoromethyl)pyrimidine derivatives as TLR8 antagonists"
   first_author: True
   authors: Benedik N. S., Talagayev V., Matziol T., Dolšak A., Sosič I., Weindl G., Wolber G., Sova M.,
@@ -101,25 +108,18 @@
   journal: ACS Medicinal Chemistry Letters
   url: https://pubs.acs.org/doi/10.1021/acsmedchemlett.4c00350
   pdf: https://www.biorxiv.org/content/10.1101/2024.08.04.604031v1.full.pdf
-- title: "CACHE Challenge #2: Targeting the RNA Site of the SARS-CoV-2 Helicase Nsp13"
-  first_author: false
-  authors: Herasymenko O. et al. 
-  date: June 2025
-  journal: Journal of Chemical Information and Modeling
-  url: https://doi.org/10.1021/acs.jcim.5c00535
-  pdf: https://chemrxiv.org/doi/pdf/10.26434/chemrxiv-2025-8f0rq-v3
-- title: "Pharmacological fingerprint of antipsychotic drugs at the serotonin 5-HT2A receptor"
-  first_author: false
-  authors: Gaitonde S. A., Avet C., de la Fuente Revenga M., Blondel-Tepaz E., Shahraki A., Pastor A. M., Talagayev V., Robledo P., Kolb P., Selent J., González-Maeso J., Bouvier M.
-  date: April 2024
-  journal: Molecular Psychiatry
-  url: https://doi.org/10.1038/s41380-024-02531-7
 - title: "Discovery of small-molecule TIM-3 inhibitors for acute myeloid leukemia using pharmacophore-based virtual screening"
   first_author: false
   authors: Abdel‐Rahman S. A., Talagayev V., Pach S., Wolber G., Gabr M.
   date: August 2024
   journal: Journal of Medicinal Chemistry
   url: https://doi.org/10.1021/acs.jmedchem.3c00960
+- title: "Pharmacological fingerprint of antipsychotic drugs at the serotonin 5-HT2A receptor"
+  first_author: false
+  authors: Gaitonde S. A., Avet C., de la Fuente Revenga M., Blondel-Tepaz E., Shahraki A., Pastor A. M., Talagayev V., Robledo P., Kolb P., Selent J., González-Maeso J., Bouvier M.
+  date: April 2024
+  journal: Molecular Psychiatry
+  url: https://doi.org/10.1038/s41380-024-02531-7
 - title: "Designed multiple ligands for the treatment of type 2 diabetes mellitus and its complications: Discovery of (5-arylidene-4-oxo-2-thioxothiazolidin-3-yl)alkanoic acids active as novel dual-targeted PTP1B/AKR1B1 inhibitors"
   first_author: false
   authors: Maccari R., Wolber G., Genovese M., Sardelli G., Talagayev V., Balestri F., Luti S., Santi A., Moschini R., Del Corso A., Paoli P., Ottanà R.

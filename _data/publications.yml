@@ -1,14 +1,38 @@
-- title: "Design, synthesis and biological evaluation of novel pyrimidine-based small-molecule Toll-like receptor 8 antagonists"
+- title: "Design, synthesis and biological evaluation of novel pyrimidine and quinazoline-based small-molecule Toll-like receptor 8 antagonists "
   first_author: True
-  authors: Matziol T., Talagayev V., Benedik N. S., Slokan T., Holze J., Weindl G., Wolber G., Sova M.,
+  authors: Matziol T., Talagayev V., Benedik N. S., von Kempis P., Slokan T., Holze J., Weindl G., Wolber G., Sova M.,
   date: 2025
   journal: Manuscript in Preparation
-- title: "Unbinding Pathways of Toll-like receptor 8 agonists and antagonists"
+- title: "Structure-guided approaches to modulate endosomal toll-like receptors TLR7, TLR8 and TLR9: advances, challenges and therapeutic promise"
+  first_author: True
+  authors: Matziol T., Talagayev V., Weindl G., Wolber G.,
+  date: November 2025
+  journal: Drug Discovery Today
+  url: https://doi.org/10.1016/j.drudis.2025.104495
+- title: "An Ongoing Search for Multitarget Ligands as Potential Agents for Diabetes Mellitus and Its Long-Term Complications: New Insights into (5-Arylidene-4-oxothiazolidin-3-yl)alkanoic Acid Derivatives"
+  first_author: False
+  authors: Maccari R., Ottanà R., Talagayev V., Moschini R., Balestri F., Felice F., Iannuccilli F., Sardelli G., Sodano R., Wolber G., Paoli P., Del Corso A.,
+  date: December 2025
+  journal: Pharmaceuticals
+  url: https://doi.org/10.3390/ph18121863
+- title: "Synthesis and structure-activity relationship study of novel quinazolin-4(3H)-one derivatives as Toll-like receptor 7 and 8 agonists with immunomodulatory activity"
+  first_author: False
+  authors: Benedik N. S., Lukić D., Slokan T., Dolšak A., Švajger U., Brezar S. K., Talagayev V., Wolber G., Čemažar M., Sosič I., Sova M.,
+  date: Januar 2026
+  journal: European Journal of Medicinal Chemistry
+  url: https://doi.org/10.1016/j.ejmech.2025.118360
+- title: "Structure-based virtual screening identifies potent CD28 inhibitors that suppress T cell co-stimulation in cellular and mucosal models"
+  first_author: False
+  authors: Upadhyay S., Talagayev V., Cho S., Wolber G., Gabr M.,
+  date: December 2025
+  journal: European Journal of Medicinal Chemistry
+  url: https://doi.org/10.1016/j.ejmech.2025.118194
+- title: "Agonists and Antagonists Show Different Unbinding Paths from the TLR8 Receptor"
   first_author: True
   authors: Talagayev V., Wolber G., Nunes Alves A. F.,
   date: 2025
-  journal: Manuscript in Submission
-  url: https://chemrxiv.org/engage/chemrxiv/article-details/67c5c6ab81d2151a02e1bc80
+  journal: Journal of Chemical Information and Modeling
+  url: https://doi.org/10.1021/acs.jcim.5c00496
   pdf: https://chemrxiv.org/engage/api-gateway/chemrxiv/assets/orp/resource/item/67c5c6ab81d2151a02e1bc80/original/agonists-and-antagonists-show-different-unbinding-paths-from-the-tlr8-receptor.pdf
 - title: "Optimization of 6-(trifluoromethyl)pyrimidine derivatives as TLR8 antagonists"
   first_author: True

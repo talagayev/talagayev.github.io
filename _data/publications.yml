@@ -61,7 +61,7 @@
   date: July 2025
   journal: Journal of Chemical Information and Modeling
   url: https://doi.org/10.1021/acs.jcim.5c00496
-  pdf:https://chemrxiv.org/doi/pdf/10.26434/chemrxiv-2025-n94jz
+  pdf: https://chemrxiv.org/doi/pdf/10.26434/chemrxiv-2025-n94jz
 - title: "Optimization of 6-(trifluoromethyl)pyrimidine derivatives as TLR8 antagonists"
   first_author: True
   authors: Benedik N. S., Talagayev V., Matziol T., Dolšak A., Sosič I., Weindl G., Wolber G., Sova M.,
@@ -84,10 +84,10 @@
 - title: "CACHE Challenge #2: Targeting the RNA Site of the SARS-CoV-2 Helicase Nsp13"
   first_author: false
   authors: Herasymenko O. et al. 
-  date: March 2025
-  journal: ChemRxiv
-  url: https://chemrxiv.org/engage/chemrxiv/article-details/67c858e5fa469535b90c4f9a
-  pdf: https://chemrxiv.org/engage/api-gateway/chemrxiv/assets/orp/resource/item/67c858e5fa469535b90c4f9a/original/cache-challenge-2-targeting-the-rna-site-of-the-sars-co-v-2-helicase-nsp13.pdf
+  date: June 2025
+  journal: Journal of Chemical Information and Modeling
+  url: https://doi.org/10.1021/acs.jcim.5c00535
+  pdf: https://chemrxiv.org/doi/pdf/10.26434/chemrxiv-2025-8f0rq-v3
 - title: "CACHE Challenge #1: targeting the WDR domain of LRRK2, a Parkinsons Disease associated protein"
   first_author: false
   authors: Li F. et al. 
